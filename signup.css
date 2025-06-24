@@ -1,0 +1,25 @@
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  max-width: 500px;
+  margin: auto;
+}
+
+input, select {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  background: #333;
+  color: white;
+  padding: 10px;
+  border: solid;
+  border-radius: 5px;
+  cursor: pointer;
+}
+h2{
+  text-align: center;
+}
